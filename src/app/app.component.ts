@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   `
   <div>
     <h1>Hello {{name}}</h1>
-    <p>By Anas Bellaghzilia </p>
+    <p>By Anas Bellaghzilia -- My branch </p>
   </div> 
   `,
 })
